@@ -24,7 +24,7 @@
 .c-grid__answer {
   display: flex;
   flex-flow: column;
-  justify-content: flex-end;
+  justify-content: center;
   height: 192px;
 }
 
